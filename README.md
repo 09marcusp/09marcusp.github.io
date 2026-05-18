@@ -23,7 +23,7 @@ My interest in computers has led me to develop a passion for cybersecurity, and 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -46,7 +46,6 @@ My interest in computers has led me to develop a passion for cybersecurity, and 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img [![Google Cybersecurity Certificate](https://img.shields.io/badge/Coursera-Certificate-0056D2?style=for-the-badge&logo=coursera)](<img width="1650" height="1275" alt="Coursera YB2OSKUL0E79_page-0001" src="https://github.com/user-attachments/assets/997b7da5-2c65-4056-bac8-2c5ecbed28e9" />
 ) />
